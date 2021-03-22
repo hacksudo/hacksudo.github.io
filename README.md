@@ -5,4 +5,4 @@
 
 GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
 
-Find the project at https://gtfobins.github.io
+Find the project at https://hacksudoCTF.github.io
