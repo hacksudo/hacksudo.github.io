@@ -1,3 +1,3 @@
 # Contributing
 
-Find the instructions [here](https://hacksudoCTF.github.io/contribute/).
+Find the instructions [here](https://hacksudo.github.io/contribute/).
