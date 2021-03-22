@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GTFOBins
+title: hacksudoPrv
 ---
 
 ![logo](/assets/logo.png){:.logo}
